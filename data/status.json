@@ -1,12 +1,12 @@
 {
-  "timestamp": 1794739267,
+  "timestamp": 1794763426,
   "results": [
     {
       "name": "Hauptwebsite",
       "url": "https://therealgeo.de",
       "up": true,
       "status_code": 200,
-      "latency_ms": 305.35,
+      "latency_ms": 457.55,
       "error": ""
     },
     {
@@ -14,7 +14,7 @@
       "url": "https://status.therealgeo.de",
       "up": false,
       "status_code": 404,
-      "latency_ms": 312.21,
+      "latency_ms": 528.95,
       "error": "Unerwarteter Statuscode (Erwartet: 200, Erhalten: 404)"
     }
   ]
