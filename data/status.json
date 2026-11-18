@@ -1,12 +1,12 @@
 {
-  "timestamp": 1794992869,
+  "timestamp": 1795024705,
   "results": [
     {
       "name": "Hauptwebsite",
       "url": "https://therealgeo.de",
       "up": true,
       "status_code": 200,
-      "latency_ms": 178.54,
+      "latency_ms": 540.96,
       "error": ""
     },
     {
@@ -14,7 +14,7 @@
       "url": "https://status.therealgeo.de",
       "up": false,
       "status_code": null,
-      "latency_ms": 341.12,
+      "latency_ms": 294.73,
       "error": "HTTPSConnectionPool(host='status.therealgeo.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'status.therealgeo.de'. (_ssl.c:1147)\")))"
     }
   ]
